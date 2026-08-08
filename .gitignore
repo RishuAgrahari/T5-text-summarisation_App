@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vscode/
+.env
+
+saved_summary_model/
